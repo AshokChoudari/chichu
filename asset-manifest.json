@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chichu/static/css/main.8c126253.css",
+    "main.js": "/chichu/static/js/main.41e73536.js",
+    "static/js/787.0f7dc5a1.chunk.js": "/chichu/static/js/787.0f7dc5a1.chunk.js",
+    "static/media/sai-pallavi_156198034420.jpg": "/chichu/static/media/sai-pallavi_156198034420.ccd2c109abe0baaf5ea7.jpg",
+    "index.html": "/chichu/index.html",
+    "main.8c126253.css.map": "/chichu/static/css/main.8c126253.css.map",
+    "main.41e73536.js.map": "/chichu/static/js/main.41e73536.js.map",
+    "787.0f7dc5a1.chunk.js.map": "/chichu/static/js/787.0f7dc5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c126253.css",
+    "static/js/main.41e73536.js"
+  ]
+}
